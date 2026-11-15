@@ -1,10 +1,9 @@
 # 👩‍💻 Portfolio Profissional 🌎 📬
 
----
 
 👩‍💻 Inês Martinelli - Desenvolvedora Web
 
-
+---
 ##  Descrição do portfolio
 
 🏹 Desenvolver uma página web utilizando as linguagens de marcação de texto HTML;
@@ -21,7 +20,7 @@
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML5" height="40" width="40"
@@ -44,7 +43,9 @@ src="https://devicon-website.vercel.app/api/bootstrap/original.svg">
 
 ---
 
-## 💻 Link do site publicado
+## 🌎 Link do site publicado
+
+ 
 
 ---
 
