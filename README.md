@@ -1,6 +1,11 @@
-# 👩‍💻 Portfolio Profissional 🏁 📬
+# 👩‍💻 Portfolio Profissional 🌎 📬
 
-## 🎯 Objetivo do programa
+---
+
+👩‍💻 Inês Martinelli - Desenvolvedora Web
+
+
+##  Descrição do portfolio
 
 🏹 Desenvolver uma página web utilizando as linguagens de marcação de texto HTML;
 
@@ -16,24 +21,34 @@
 
 ---
 
-### 🛠️ Linguagens do projeto 
+### 🛠️ Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
+   <img align="center" alt="HTML5" height="40" width="40"
+src="https://devicon-website.vercel.app/api/html5/original.svg"">
   <img align="center" alt="CSS" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" alt="HTML5" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Git" height="40" width="40"
+   <img align="center" alt="Git" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40"
+src="https://devicon-website.vercel.app/api/github/original.svg">
   <img align="center" alt="VS Code" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Markdown" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+   <img align="center" alt="" height="40" width="40"
+src="https://devicon-website.vercel.app/api/bootstrap/original.svg">
+  
 </div>	
+
 
 ---
 
-## 💻 Sintaxe do código
+## 💻 Link do site publicado
+
+---
+
+## 💻 Sintaxe do projeto
 
     👩‍💻 O título da página web (aba) é: Meu Portal de Entretenimento Digital.
     
